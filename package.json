@@ -1,0 +1,25 @@
+{
+  "name": "hitchy-plugin-odem-mysql",
+  "version": "0.1.0",
+  "description": "MySQL bindings for Hitchy ODM",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --ui tdd --recursive test/unit/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hitchyjs/plugin-odem-mysql.git"
+  },
+  "keywords": [
+    "hitchy",
+    "odem",
+    "odm",
+    "mysql"
+  ],
+  "author": "cepharum GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hitchyjs/plugin-odem-mysql/issues"
+  },
+  "homepage": "https://github.com/hitchyjs/plugin-odem-mysql#readme"
+}
