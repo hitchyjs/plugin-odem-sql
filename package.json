@@ -34,6 +34,7 @@
     "hitchy": "*"
   },
   "dependencies": {
-    "hitchy-odem": "0.0.7"
+    "hitchy-odem": "0.0.7",
+    "knex": "^0.17.5"
   }
 }
